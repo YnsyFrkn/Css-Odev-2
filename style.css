@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.res
+{
+    margin-top: 25px;
+}
+
+.search{
+    background-color: #eeeeee;
+    height: 60px;
+    margin: 25px;
+    margin-bottom: -20px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.btn-1{
+    margin-right: 10px;
+}
+    
+
+.ortaKısım{
+   margin: 25px;
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.oKısım2{
+   
+    background-color: #7de5da;
+    width: 32%;
+   
+  padding: 9px;
+  margin: 2px;
+    
+}
+.oKısım3{
+  
+    background-color: #70cbc2;
+    width: 25%;
+    padding: 1px;
+    margin: 2px;
+    
+  
+    
+}
+.oKısım4{
+    
+    background-color: #62b3aa;
+    width: 43%;
+}
+
+footer{
+    clear: both;
+}
+
+
